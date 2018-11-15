@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ViewModel.cs](./CS/WpfApplication1/ViewModel.cs) (VB: [ViewModel.vb](./VB/WpfApplication1/ViewModel.vb))
+* [Window1.xaml](./CS/WpfApplication1/Window1.xaml) (VB: [Window1.xaml.vb](./VB/WpfApplication1/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/WpfApplication1/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/WpfApplication1/Window1.xaml.vb))
+<!-- default file list end -->
 # How to bind the GridColumn's Visible property to a custom property of the ViewModel
 
 
