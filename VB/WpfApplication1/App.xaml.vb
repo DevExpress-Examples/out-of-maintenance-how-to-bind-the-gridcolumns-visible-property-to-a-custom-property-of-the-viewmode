@@ -1,4 +1,4 @@
-﻿' Developer Express Code Central Example:
+' Developer Express Code Central Example:
 ' How to bind the GridColumn Visible property to the dependency property of the ViewModel
 ' 
 ' In the v9.3 version, GridColumn properties are not inherited from the
@@ -8,19 +8,14 @@
 ' 
 ' You can find sample updates and versions for different programming languages here:
 ' http://www.devexpress.com/example=E2569
-
-Imports System
-Imports System.Collections.Generic
-Imports System.Configuration
-Imports System.Data
-Imports System.Linq
 Imports System.Windows
 
 Namespace WpfApplication1
+
     ''' <summary>
     ''' Interaction logic for App.xaml
     ''' </summary>
-    Partial Public Class App
+    Public Partial Class App
         Inherits Application
 
     End Class
